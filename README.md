@@ -19,6 +19,9 @@ Explain how to get the project up and running (e.g., installing dependencies).  
 
 How to use the project and its features. This will be updated later.
 
+## Instruction
+click hello.py and run
+
 ## License
 
 This project is licensed under the [MIT License](link-to-your-license).  This will be updated later
